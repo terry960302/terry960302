@@ -1,7 +1,7 @@
 ### Hi there 👋
 [![Taewan's github stats](https://github-readme-stats.vercel.app/api?username=terry960302)](https://github.com/terry960302/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terry960302)](https://github.com/terry960302/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terry960302&layout=compact)](https://github.com/terry960302/github-readme-stats)
 
 
 <!--
