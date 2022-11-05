@@ -16,8 +16,8 @@
 
 ## How to reach me
 - Email : terry960302@gmail.com
-- Blog : [blog.naver.com/ljk041180](https://blog.naver.com/ljk041180)
-- LinkedIn : [https://my.surfit.io/w/800891538](https://www.linkedin.com/in/taewan-kim-1520b0165/)
+- Blog : [Direct to NaverBlog](https://blog.naver.com/ljk041180)
+- LinkedIn : [Direct to LinkedIn](https://www.linkedin.com/in/taewan-kim-1520b0165/)
 
 ## Tech Stacks
   : Used in production level
