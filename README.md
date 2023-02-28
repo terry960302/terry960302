@@ -13,9 +13,9 @@
 
 ## Career
 [Direct to Resume](https://panda-terry.notion.site/Resume-7947d3bf023643b4b9b7af5feb7aaa58)
-- (2019 ~ 2020) Effy Live Co. Ltd : App Developer
+- (2019 ~ 2020) Effy Live Co. Ltd : Mobile Developer
 - (2020 ~ 2022) Pretzel Global Connection Group Co. Ltd : Chief Technology Officer
-- (2022 ~)      Archi Corp(Freelancer Team) : Freelancer Developer
+- (2022 ~)      Archi Co.(Freelancer Team) : Freelancer Developer
 
 ## How to reach me
 - Email : terry960302@gmail.com
