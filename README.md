@@ -19,7 +19,6 @@
 - (2023 ~ 2025) Ruplic of Korea Airforce : Backend Developer
 
 ## How to reach me
-- Email : terry960302@gmail.com
 - Blog : [Direct to NaverBlog](https://blog.naver.com/ljk041180)
 - LinkedIn : [Direct to LinkedIn](https://www.linkedin.com/in/taewan-kim-1520b0165/)
 
