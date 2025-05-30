@@ -36,20 +36,3 @@
     </td>
   </tr>
 </table>
-
----
-
-## Career
-
-| 기간 | 소속 | 포지션 | 요약 |
-|------|------|--------|------|
-| 2019–2020 | Effy Live Co.Ltd | 모바일 개발자 | Flutter 기반 인터랙티브 앱 개발 |
-| 2020–2022 | PGCG Co.Ltd | 사내이사 | 실시간 채팅 커뮤니티 개발 및 운영, 커머스 서비스 개발 및 운영 |
-| 2022–2023 | Archi (프리랜서) | 웹 개발자 | 커머스/예약 플랫폼 백엔드 설계 및 배포 자동화 |
-| 2023–2025 | ROK Airforce | 백엔드 개발자 | JPA 최적화, ABAC 인증 시스템 개선, 멀티스레딩 처리 |
-
----
-
-## How to reach me
-- Blog : [Direct to Blog](https://pandaterry.tistory.com/)
-- LinkedIn : [Direct to LinkedIn](https://www.linkedin.com/in/taewan-kim-1520b0165/)
